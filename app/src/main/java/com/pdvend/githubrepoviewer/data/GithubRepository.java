@@ -25,7 +25,7 @@ public class GithubRepository {
     /**
      * Search issues and pull requests in a batch.
      * @param repoName Repository full name (e.g. owner/repository)
-     * @return
+     * @return The search result object [IssueSearchResult]
      */
     @SuppressWarnings("unchecked")
     public IssueSearchResult search(String repoName){
