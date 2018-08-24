@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Github Issue Tracker</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">owner/repository</string>
+
+    <string name="loading">Loading</string>
+    <string name="no_results">We could not find results for this repository</string>
+    <string name="no_search">Please make a repository search</string>
+
+    <string name="tab_issues">Issues</string>
+    <string name="tab_pull_requests">Pull requests</string>
+
+    <string name="error_repo_not_found">This repository does not exist. Please enter another repository</string>
+    <string name="error_request_error">A network error has occurred. Check your Internet connection and try again later.</string>
+
+    <string name="error_dismiss">OK</string>
+
+</resources>

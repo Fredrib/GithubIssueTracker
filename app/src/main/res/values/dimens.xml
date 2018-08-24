@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin">16dp</dimen>
+
+    <dimen name="headline">24sp</dimen>
+    <dimen name="title">18sp</dimen>
+    <dimen name="subtitle">16sp</dimen>
+    <dimen name="body">14sp</dimen>
+    <dimen name="overline">14sp</dimen>
+
+    <dimen name="repo_name_size">24sp</dimen>
+    <dimen name="repo_description_size">16sp</dimen>
+</resources>

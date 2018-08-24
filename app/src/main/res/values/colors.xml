@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorActivityBackground">#fff</color>
+    <color name="colorCardViewBackground">#FAFAFA</color>
+
+    <color name="colorPrimaryText">#000</color>
+    <color name="colorSecondaryText">#7B7B7B</color>
+
+    <color name="colorHighlightedText">#64A1E6</color>
+
+    <color name="colorDivider">#C7C7C7</color>
+</resources>
